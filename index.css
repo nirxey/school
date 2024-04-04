@@ -13,24 +13,24 @@ code {
 }
 
 .highlighted {
-  background-color: #ffeeba; /* Or any other highlight color */
+  background-color: #ffeeba; 
 }
 
 .listNameInput {
-  font-size: 24px; /* Adjust the font size as needed */
+  font-size: 24px; 
 }
 
 .listNameInput {
-  font-size: 24px; /* Adjust the font size as needed */
-  border: none; /* Hide the border by default */
-  outline: none; /* Remove default outline */
+  font-size: 24px; 
+  border: none; 
+  outline: none; 
 }
 
 .listNameInput:hover {
-  border: 1px solid black; /* Show border on hover */
+  border: 1px solid black;
 }
 
 .completed {
-  background-color: #ffeeba; /* Or any other highlight color */
+  background-color: #ffeeba; 
 }
 
